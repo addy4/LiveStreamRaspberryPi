@@ -8,6 +8,6 @@ Required Python Modules
 
 Steps to Connect 
 1) Go to the terminal of Raspberry Pi device. 
-2) cd <directory> 
+2) cd directory 
 3) python PiVideoStreaming.py 
 4) On the Client Side, to view the stream, visit http://<IP_Address_of_Pi>:8000 [as PORT = 8000] on your browser    
